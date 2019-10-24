@@ -3,5 +3,7 @@
     <string name="header">Currency Converter</string>
     <string name="hint_amount">Give a amount in €</string>
     <string name="convert_bnt">Convert</string>
-    <string name="converted">Converts to: $ %1$s</string>
+    <string name="convert_from">Base currency</string>
+    <string name="convert_to">Target currency</string>
+    <string name="converted">Converts to: %1$s</string>
 </resources>
